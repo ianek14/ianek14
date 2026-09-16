@@ -1,9 +1,9 @@
 # ianek14@github:~$ whoami
 
 ## > currently
-uni: politechnika poznańska
-major: bioinformatics
-learning: linux, C, computer networking
+uni: politechnika poznańska  
+major: bioinformatics  
+learning: linux, C, computer networking  
 
 <!--
 **ianek14/ianek14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
